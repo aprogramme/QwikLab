@@ -1,0 +1,7 @@
+# Sort Solution for lab GSP190
+
+## Copy and paste the following command
+
+curl -LO https://raw.githubusercontent.com/aprogramme/GoogleCloudLabs/main/gsp190.sh
+chmod +x gsp190.sh
+./gsp190.sh
